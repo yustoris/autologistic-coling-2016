@@ -83,6 +83,7 @@ if `is_original` is `true`, it denotes the feature value (`value`) of the langua
 $ python ./scripts/experiment.py exp 0 10 param
 ```
 * It outputs the results to the directory `(output directory)/param/(feature name).json`.
+
 ### Output
 Output JSON file is like:
 ```json
