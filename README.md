@@ -41,6 +41,7 @@ $ python ./scripts/experiment.py exp --help
 $ python ./scripts/experiment.py exp 0 10 mvi
 ```
 * It outputs the results to the directory `(output directory)/mvi/(number of the split)/(feature name).json`.
+
 ### Output
 Output JSON file is like:
 ```json
